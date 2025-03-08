@@ -1,4 +1,5 @@
-# Intelli_Face_Attendance
+# SmartAttendance-Pro
+
 
 Intelli_Face_Attendance is an intelligent facial recognition-based attendance system that uses pre-trained models to detect and recognize faces from images and live video feeds, and records attendance by updating a CSV file.
 
